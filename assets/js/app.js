@@ -1,5 +1,5 @@
 var config = {
-    apiKey: "AIzaSyCwj3nNjRTPn5PgTSa-rNyQzjCHSsekWDE",
+    apiKey: "AIzaSyBFnEeejorIZXEc3hhY7-e3xHkcWv0QYzE",
     authDomain: "zane-bootcamp.firebaseapp.com",
     databaseURL: "https://zane-bootcamp.firebaseio.com",
     projectId: "zane-bootcamp",
