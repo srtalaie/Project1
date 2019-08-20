@@ -11,4 +11,4 @@ Get:
   
  Type in your starting location and destination to display info on your trip.
  
- https://stannous2.github.io/Project1/
+ https://srtalaie.github.io/Project1/
